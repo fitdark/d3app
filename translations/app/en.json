@@ -1,0 +1,9 @@
+{
+	"config_ios": {
+		"CFBundleDisplayName": "en",
+		"CFBundleName": "en"
+	},
+	"config_android": {
+		"app_name": "en"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"config_ios": {
+		"CFBundleDisplayName": "ko",
+		"CFBundleName": "ko"
+	},
+	"config_android": {
+		"app_name": "ko"
+	}
+}
